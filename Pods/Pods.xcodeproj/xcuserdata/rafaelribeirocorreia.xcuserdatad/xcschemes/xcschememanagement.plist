@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Eureka.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PlayingWithForms.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PlayingWithFormsTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PlayingWithFormsUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RAMAnimatedTabBarController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1EAA1460F5C4FBF5D832D9B2DFF0BF3F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>28FB84D5C257CB3E055798C3F3922EB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>311CB1C5BCC446C7B5A9B19AEEBBFD78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA5B68E6549C66DEC329C585F7F5CC89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE774F234E810C0DD8263855D7A1A166</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

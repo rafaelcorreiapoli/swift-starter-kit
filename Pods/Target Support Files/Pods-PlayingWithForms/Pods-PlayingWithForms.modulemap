@@ -1,0 +1,6 @@
+framework module Pods_PlayingWithForms {
+  umbrella header "Pods-PlayingWithForms-umbrella.h"
+
+  export *
+  module * { export * }
+}

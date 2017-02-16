@@ -1,0 +1,15 @@
+PODS:
+  - Eureka (2.0.0-beta.1)
+  - RAMAnimatedTabBarController (2.0.13)
+
+DEPENDENCIES:
+  - Eureka (~> 2.0.0-beta.1)
+  - RAMAnimatedTabBarController (~> 2.0.13)
+
+SPEC CHECKSUMS:
+  Eureka: d014adf16406745e1a78d5790ea37ed130a0a8e5
+  RAMAnimatedTabBarController: 2510f3b66954c3f77ea1042a35d34df8f5f3b604
+
+PODFILE CHECKSUM: df1ea3d31119ccbc0dbf4542a444ab5900a3e3f6
+
+COCOAPODS: 1.2.0

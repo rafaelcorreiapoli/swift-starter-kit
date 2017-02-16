@@ -1,0 +1,6 @@
+framework module Pods_PlayingWithFormsUITests {
+  umbrella header "Pods-PlayingWithFormsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
